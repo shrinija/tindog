@@ -1,4 +1,5 @@
 body{
+  background-color: #F8EDE3;
   font-family: "Montserrat";
 }
 #title{
@@ -63,7 +64,7 @@ p{
 
 /* features section */
 #features{
-  background-color: #fff;
+  background-color: #F8EDE3;
   padding: 7% 15% 3%;
   position: relative;
 /*  z-index: 1; */
@@ -116,7 +117,7 @@ p{
 
 /* CTA Section */
 #cta{
-
+width: 92%;
   color: #fff;
   padding: 7% 15%;
   background-color: #85586F;
